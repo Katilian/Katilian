@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/ekaterina-makvits/">
     <img src="https://img.shields.io/badge/Ekaterina Makvits-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="katarinamakvits@gmail.com">
+  <a href="mailto:katarinamakvits@gmail.com">
     <img src="https://img.shields.io/badge/katarinamakvits-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/Katilian/DA_Portfolio">
