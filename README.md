@@ -18,25 +18,18 @@
   </a>
 </div>
 
-### Hi there 👋
 
-I'm a new born data analyst and I am standing at the precipice of embarking on a new career path in the data world.  
-During the DA course, i've studied coding using Python and SQL, statistic and testing hypothesis, creating visualizations in Tableau and telling data based stories.  I've had a lot of practice with the real life related datasets and tasks. I'm interested in people in general as well as what might affect their thoughts, decisions and behavior.   
-What makes a business grow, what brings bigger profit, how customers react to new products and how different changes affect customer behavior - i enjoy answering to such questions the most.  
+#### Hi there 👋
+I'm Kate, nice to meet you!
 
-Fields somehow related to traveling, dogs, sustainability, ecology, fashion, self development or psychology get me fired up.
+### :woman_technologist: About Me :
 
-<!--
-**Katilian/Katilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm a new born data analyst and I am standing at the precipice of embarking on a new career path in the data world.
+- ⚡ During the DA course, i've studied coding using Python and SQL, statistic and testing hypothesis, creating visualizations in Tableau and telling data based stories.  I've had a lot of practice with the real life related datasets and tasks. 
+- 👯 I'm interested in people in general as well as what might affect their thoughts, decisions and behavior.
+- 🦮 Fields somehow related to traveling, dogs, sustainability, ecology, fashion, self development or psychology get me fired up.
+- 😄 What makes a business grow, what brings bigger profit, how customers react to new products and how different changes affect customer behavior - i enjoy answering to such questions the most.
+---
 
-Here are some ideas to get you started:
+### :computer: Languages and Tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
