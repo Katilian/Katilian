@@ -27,7 +27,7 @@ I'm Kate, nice to meet you!
 - 🌱 I'm a new born data analyst and I am standing at the precipice of embarking on a new career path in the data world.
 - ⚡ During the DA course, i've studied coding using Python and SQL, statistic and testing hypothesis, creating visualizations in Tableau and telling data based stories.  I've had a lot of practice with the real life related datasets and tasks. 
 - 👯 I'm interested in people in general as well as what might affect their thoughts, decisions and behavior.
-- 🦮 Fields somehow related to traveling, dogs, sustainability, ecology, fashion, self development or psychology get me fired up.
+- 🦮 Fields somehow related to traveling, dogs, sustainability, ecology, fashion and design, self development and self care,  psychology get me fired up.
 - 😄 What makes a business grow, what brings bigger profit, how customers react to new products and how different changes affect customer behavior - i enjoy answering to such questions the most.
 ---
 
